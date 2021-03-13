@@ -1,0 +1,15 @@
+{
+  "name": "crossword-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "dependencies": {
+    "cli-color": "latest"
+  },
+  "scripts": {
+    "start": "node generate.js 20 20 20"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
